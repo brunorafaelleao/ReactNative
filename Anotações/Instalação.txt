@@ -1,0 +1,9 @@
+1) Para começar a trabalhar com React Native
+-> Instalar o Chocolatey
+(Na página do chocolatey seguir a orientação)
+abrir o prompt do windows powershekll e colar o código da página do
+chocolatey
+
+-> Instalar Node, Python e JDK
+Usar o chocolatey pra instalar as demais dependências
+choco install -y nodejs-lts microsoft-openjdk17
